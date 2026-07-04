@@ -1,3 +1,13 @@
 file_path,total_issues,total_errors,total_warnings,total_conventions,has_undefined_variable,has_unused_import,has_docstring_issues,has_formatting_issues,unique_message_ids_count
+api_client.py,13,4,4,5,1,1,1,1,6
+config_loader.py,9,4,0,5,1,0,1,1,5
+database_utils.py,11,5,1,5,1,1,1,1,6
+data_utils.py,13,4,4,5,1,1,1,1,7
+file_processor.py,13,3,5,5,1,1,1,1,7
+label_buggy_files.py,18,0,5,12,0,1,1,1,9
+logger.py,8,3,0,5,1,0,1,1,4
+merge_dataset.py,7,0,2,4,0,0,1,1,7
 run_pylint.py,29,0,4,24,0,1,1,1,10
 test_app.py,7,1,2,4,1,1,1,1,6
+train_model.py,44,0,2,39,0,0,1,1,12
+web_utils.py,10,3,2,5,1,1,1,1,6
