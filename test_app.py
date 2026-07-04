@@ -1,7 +1,7 @@
-# test_app.py - DevInsight Test File
-# මේකේ හිතාමතා errors තියෙනවා
+# test_app.py - DevInsight Test File (Fixed Version)
+# මේකේ හිතාමතා errors තියෙනවා (Indentation හරියට)
 
-import os          # Unused import (W0611: Unused import)
+import os          # Unused import (W0611)
 import sys         # Unused import (W0611)
 
 def calculate_area(radius):
@@ -13,8 +13,8 @@ def main():
     # ERROR 1: 'name' කියන variable එක define කරලා නැහැ (E0602: Undefined variable)
     print("Hello, " + name)
     
-    # ERROR 2: Bad indentation (E0001: Indentation error - මේක Python එකට හරින්න බැහැ)
-      value = 10
+    # ERROR 2: Indentation දැන් හරි - ඒත් 'value' variable එක define කරලා නැහැ (E0601)
+    value = 10
     value += 5
     print(f"Value is: {value}")
 
