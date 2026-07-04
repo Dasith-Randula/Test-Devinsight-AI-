@@ -1,0 +1,26 @@
+[
+  {
+    "file_path": "run_pylint.py",
+    "total_issues": 29,
+    "total_errors": 0,
+    "total_warnings": 4,
+    "total_conventions": 24,
+    "has_undefined_variable": 0,
+    "has_unused_import": 1,
+    "has_docstring_issues": 1,
+    "has_formatting_issues": 1,
+    "unique_message_ids_count": 10
+  },
+  {
+    "file_path": "test_app.py",
+    "total_issues": 7,
+    "total_errors": 1,
+    "total_warnings": 2,
+    "total_conventions": 4,
+    "has_undefined_variable": 1,
+    "has_unused_import": 1,
+    "has_docstring_issues": 1,
+    "has_formatting_issues": 1,
+    "unique_message_ids_count": 6
+  }
+]

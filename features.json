@@ -1,0 +1,11 @@
+{
+  "total_issues": 7,
+  "total_errors": 1,
+  "total_warnings": 2,
+  "total_conventions": 4,
+  "has_undefined_variable": 1,
+  "has_unused_import": 1,
+  "has_docstring_issues": 1,
+  "has_formatting_issues": 1,
+  "unique_message_ids_count": 6
+}

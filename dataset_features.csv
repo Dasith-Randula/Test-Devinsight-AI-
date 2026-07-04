@@ -1,0 +1,3 @@
+file_path,total_issues,total_errors,total_warnings,total_conventions,has_undefined_variable,has_unused_import,has_docstring_issues,has_formatting_issues,unique_message_ids_count
+run_pylint.py,29,0,4,24,0,1,1,1,10
+test_app.py,7,1,2,4,1,1,1,1,6
